@@ -31,6 +31,7 @@
 		, "Null Value"     : null
 		, "Empty Object"   : {}
 		, "Empty Array"    : []
+		, "Escaped quotes" : "\"Sarcasm\""
 		},
 	
 	"Invalid numbers": [
