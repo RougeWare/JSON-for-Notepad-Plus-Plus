@@ -4,7 +4,7 @@ JSON for Notepad++
 
 Screenshot
 ==========
-![Screenshot demonstrating the syntax hilighting capabilities](http://i.imgur.com/aSrHKIT.png)
+![Screenshot demonstrating the syntax hilighting capabilities](http://i.imgur.com/8raMmsF.png)
 
 Features
 ========
