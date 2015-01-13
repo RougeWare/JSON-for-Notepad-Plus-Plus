@@ -1,0 +1,43 @@
+{
+	/* Comment along one line */
+	"Key A": "Value A",
+	"Key B": {
+		"Key B-1": "Value B-1",
+		"Key B-2": [
+			"Value B-2-a",
+			"Value B-2-b"
+		]
+		"Folded Object": {
+			"Key B-3-a": "Value B-3-a",
+			"Key B-3-b": "Value B-3-b",
+			"Key B-3-c": "Value B-3-c",
+		},
+		
+		/*
+		 * A comment that spans
+		 * Multiple lines
+		 */
+		"Folded Array": [
+			"Item 1",
+			"Item 2",
+			"Item 3"
+		]
+	},
+	
+	"Alternate formatting":
+		{ "Numerical Value": -123.456e789
+		, "Boolean Value A": true
+		, "Boolean Value B": false
+		, "Null Value"     : null
+		, "Empty Object"   : {}
+		, "Empty Array"    : []
+		},
+	
+	"Invalid numbers": [
+		123. ,
+		10e ,
+		0xA ,
+		(456) 789-0123
+	],
+	"Invalid datatype": derp
+}
