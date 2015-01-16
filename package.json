@@ -1,0 +1,18 @@
+{
+	"name": "JSON for Notepad++",
+	"version": "1.0.0",
+	"description": "Notepad++ JSON Syntax Hiligher",
+	"main": "/lib/JSON.XML",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/RougeWare/JSON-for-Notepad--"
+	},
+	"author": "Kyli Rouge <Kyli@BHStudios.org>",
+	"maintainers": [
+		{
+			"name": "Kyli Rouge",
+			"url": "https://github.com/Supuhstar"
+		}
+	],
+	"license": "BH-1-PS"
+}
