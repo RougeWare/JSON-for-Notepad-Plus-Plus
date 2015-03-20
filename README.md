@@ -14,7 +14,7 @@ Features
 
 Instructions
 ============
-1. Clone this repository or download `JSON.xml` in the `lib` folder
+1. Obtain `JSON.xml` by clicking "releases" up top, by cloning this reposiory, or by getting it straight from the `lib` folder
 2. Open Notepad++
 3. Open the "Language" menu
 4. Select "Define your language..."
